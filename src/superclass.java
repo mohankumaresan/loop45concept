@@ -13,7 +13,7 @@ public class superclass {
     }
 
 }
-class childclass  extends superclass{
+class childclass extends superclass{
 
     public static void main(String[] args )
     {
